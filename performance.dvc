@@ -1,0 +1,6 @@
+outs:
+- md5: 5625db198a341cdaa6d8f970a92a562d.dir
+  size: 12905149
+  nfiles: 1
+  hash: md5
+  path: performance

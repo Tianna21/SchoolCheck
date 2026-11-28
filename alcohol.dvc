@@ -1,0 +1,6 @@
+outs:
+- md5: 116b98a2678c43237de3e60ee4b05d21.dir
+  size: 110810
+  nfiles: 3
+  hash: md5
+  path: alcohol
